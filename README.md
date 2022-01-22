@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# bestbeer
-=======
-<<<<<<< HEAD
 # best-beer
 =======
 # best-beer
@@ -28,5 +24,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> #1
->>>>>>> first commit
+
